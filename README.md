@@ -3,7 +3,7 @@ Pcode compiler, compiles pascal code into Intermediate code
 
 # Usage:
 
-//main program code
+```
 int main()
 {
 	AST* ast;
@@ -28,4 +28,4 @@ int main()
 
 }
 
-//main program end
+```
