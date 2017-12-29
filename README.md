@@ -1,6 +1,6 @@
 # PcodeCompiler
-Pcode compiler, compiles pascal code into Intermediate code - pcode
-
+- Pcode compiler, compiles pascal code into Intermediate code - pcode
+- Written in Compilers Course in the Univeristy of Haifa.
 # Usage:
 
 ```
